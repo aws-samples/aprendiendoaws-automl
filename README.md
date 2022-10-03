@@ -1,11 +1,6 @@
-## My Project
+## AprendiendoAWS - AutoML/AutoPilot
 
-TODO: Fill this README out!
-
-Be sure to:
-
-* Change the title in this README
-* Edit your repository description on GitHub
+Este repositorio contiene el notebook de ejemplo para el [tutorial](https://aprendiendoaws.com/06-aiml/0603-sagemaker/060303-autopilot.html) sobre SageMaker AutoPilot.
 
 ## Security
 
@@ -14,4 +9,3 @@ See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more inform
 ## License
 
 This library is licensed under the MIT-0 License. See the LICENSE file.
-
