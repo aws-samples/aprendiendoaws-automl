@@ -1,6 +1,6 @@
 ## AprendiendoAWS - AutoML/AutoPilot
 
-Este repositorio contiene el notebook de ejemplo para el [tutorial](https://aprendiendoaws.com/06-aiml/0603-sagemaker/060303-autopilot.html) sobre SageMaker AutoPilot.
+Este repositorio contiene el [notebook](https://github.com/aws-samples/aprendiendoaws-automl/blob/main/aprendiendoaws-autopilot.ipynb) usado para desarrollar el [tutorial](https://aprendiendoaws.com/06-aiml/0603-sagemaker/060303-autopilot.html) sobre SageMaker AutoPilot.
 
 ## Security
 
